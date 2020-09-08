@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FinancialCalApp2
 //
-//  Created by student on 2/24/20.
-//  Copyright © 2020 studentasd. All rights reserved.
+//  Created by MahelM on 2/24/20.
+//  Copyright © 2020 MahelM. All rights reserved.
 //
 
 import UIKit
