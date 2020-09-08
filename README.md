@@ -9,6 +9,7 @@
 <p>The app supports the following conversions</p>
 
 <li>Compound Interest Calculator
+    
  <ol>Interest Calculation(Monthly)</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
@@ -16,6 +17,7 @@
 </li>    
      
 <li>Mortgage Calculator
+    
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
@@ -23,6 +25,7 @@
 </li> 
      
 <li>Loan Calculator
+    
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
@@ -30,6 +33,7 @@
 </li>
      
 <li>Savings Calculator
+    
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
