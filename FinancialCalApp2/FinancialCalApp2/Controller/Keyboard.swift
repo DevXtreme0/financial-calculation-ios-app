@@ -2,8 +2,8 @@
 //  Keyboard.swift
 //  UnitConversion
 //
-//  Created by Mahel Manjitha Mawellage on 3/5/20.
-//  Copyright © 2020 Mahel Manjitha Mawellage. All rights reserved.
+//  Created by MahelM on 3/5/20.
+//  Copyright © 2020 MahelM. All rights reserved.
 //
 
 import UIKit
