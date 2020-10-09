@@ -6,34 +6,34 @@
 
 <h2>Features</h2>
 
-<p>The app supports the following conversions</p>
+<p>The app supports the following conversions,</p>
 
-<li>Compound Interest Calculator
-    
+<h3>Compound Interest Calculator</h3>
+<li>    
  <ol>Interest Calculation(Monthly)</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
  <ol>Total Number of Payments/Compounds Calculation(Time)</ol>
 </li>    
      
-<li>Mortgage Calculator
-    
+<h3>Mortgage Calculator</h3>
+<li>  
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
  <ol>Payment Calculation</ol>
 </li> 
      
-<li>Loan Calculator
-    
+<h3>Loan Calculator</h3>
+<li>   
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
  <ol>Payment Calculation</ol>
 </li>
      
-<li>Savings Calculator
-    
+<h3>Savings Calculator</h3>
+<li> 
  <ol>Interest Calculation</ol>
  <ol>Future Value Calculation</ol>
  <ol>Present Value Calculation</ol> 
@@ -43,9 +43,27 @@
 
 <p> Additionally, Help views added an data persistency included. </p>
 
-<img src="./docs/readme-resources/app-screenshots.jpg"
-alt="App Screenshots">
+<p float="left">
+ 
+<img src="AppScreenshots/Menu Screen Modified.png" alt="Menu Screen" width="202" height="392">
+ &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="AppScreenshots/Help Menu Screen Modified.png" alt="Help Menu Screen" width="202" height="392">
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="AppScreenshots/Help Screen 1 Modified.png" alt="Help Screen 1" width="202" height="392">
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="AppScreenshots/Help Screen 2 Modified.png" alt="Help Screen 2" width="202" height="392">
+ &nbsp; &nbsp; 
+<img src="AppScreenshots/Compund Interest Screen Modified.png" alt="Compound Interest Screen" width="202" height="392">
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="AppScreenshots/Loan Screen Modified.png" alt="Loan Screen" width="202" height="392">
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="AppScreenshots/Mortgage Screen Modified.png" alt="Mortgage Screen" width="202" height="392">
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="AppScreenshots/Saving Screen Modified.png" alt="Saving Screen" width="202" height="392">
 
-# Built With
 
-<a href="https://swift.org/"><img src="./docs/readme-resources/swift-logo.svg" alt="swift" height="40" /></a>&nbsp;&nbsp;
+</p>
+
+# Built With -SWIFT-
+
+
